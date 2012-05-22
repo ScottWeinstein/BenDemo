@@ -24,4 +24,6 @@ foreach ($dir in (ls example))
 
     # echo out the current value
     $props
+
+    # TODO - add props to the xls file
 }
